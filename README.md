@@ -1,4 +1,4 @@
-# Graphics Games made using C Graphics
+# Graphics Games made using 'C' Graphics
 
 A collection of graphics games 💯 original, built from scratch with real-time user interaction. These games contain simple menus and UIs, different speed levels and specific game controls with ability to control the main character in the game using arrow keys or ASWD keys or space bar as required.
 The highlights of some games are demonstrated in the short video clips as demonstrated below:
