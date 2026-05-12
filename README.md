@@ -4,6 +4,16 @@ A collection of graphics games 💯 original, built from scratch with real-time 
 The highlights of some games are demonstrated in the short video clips as demonstrated below:
 <br>
 
+
+## Enter The Dragon - The Snake Game 🐲🐍🎯
+
+https://github.com/user-attachments/assets/e35d9636-1292-4a63-bedc-38eabaa5fff0
+
+
+<br>
+<br>
+
+
 ## Chrome Man Jumper 🌐🏃‍♂️🦘
 
 https://github.com/user-attachments/assets/a6e6049d-aa92-48df-a36c-ace56034ed42
@@ -15,14 +25,6 @@ https://github.com/user-attachments/assets/a6e6049d-aa92-48df-a36c-ace56034ed42
 ## Student's Percentage(%) 3D Graph 👩‍🎓💯📊
 
 https://github.com/user-attachments/assets/06a4d28e-0b05-49ba-8588-1c861ab3e57f
-
-
-<br>
-<br>
-
-## Enter The Dragon - The Snake Game 🐲🐍🎯
-
-https://github.com/user-attachments/assets/e35d9636-1292-4a63-bedc-38eabaa5fff0
 
 
 <br>
