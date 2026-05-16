@@ -40,7 +40,8 @@ https://github.com/user-attachments/assets/ab9e0ca2-05a0-4319-abe9-09a364077e0f
 
 ## Dragon Snake - V2 Transition: 🌟⚕️
 
-https://github.com/user-attachments/assets/84ed8c4f-e41d-4403-815c-aed8238a1095
+https://github.com/user-attachments/assets/cd61c431-e1ae-4fed-b3c9-7b4d924489ee
+
 
 
 
